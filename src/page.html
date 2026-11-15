@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="description" content="Find a LEGO piece by colour, category, size or keyword, then follow its route to the cabinet. An offline collection of 56 pieces with a venue navigation demo.">
+<title>Find a LEGO piece · Piece Finder</title>
+<link rel="icon" type="image/svg+xml" href="/*__FAVICON__*/">
+<style>/*__STYLES__*/</style>
+</head>
+<body>
+<svg class="svg-library" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol>
+<symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-5-5 5 5-5 5"/></symbol>
+<symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></symbol>
+<symbol id="i-ruler" viewBox="0 0 24 24"><path d="m3 15 12-12 6 6L9 21zM12 6l3 3M9 9l2 2M6 12l3 3"/></symbol>
+<symbol id="i-help" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9.5 8.5a2.5 2.5 0 0 1 5 0c0 2-2.5 2-2.5 4M12 16h.01"/></symbol>
+<symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+<symbol id="i-brick" viewBox="0 0 32 32"><rect x="3" y="11" width="26" height="17" rx="4"/><path d="M3 17h26"/><rect x="8" y="5" width="6" height="6" rx="1.5"/><rect x="19" y="5" width="6" height="6" rx="1.5"/></symbol>
+<symbol id="i-pin" viewBox="0 0 24 24"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+<symbol id="i-home" viewBox="0 0 24 24"><path d="m3 10 9-7 9 7M5 9v12h14V9M9 21v-8h6v8"/></symbol>
+<symbol id="i-replay" viewBox="0 0 24 24"><path d="M4 10a8 8 0 1 1 1 8M4 4v6h6"/></symbol>
+</defs></svg>
+<a class="skip-link" href="#resultsHeading">Skip to pieces</a>
+<div class="page">
+<main>
+<div class="venue-layout">
+<section id="searchPanel" class="search-pane" aria-label="Search for a LEGO piece">
+<div class="search-wrap"><svg class="icon" aria-hidden="true"><use href="#i-search"/></svg><label class="sr-only" for="searchInput">Search by name, keyword or TG number</label><input id="searchInput" type="search" placeholder="Try “roof tile”, “head” or TG002" autocomplete="off" spellcheck="false"><button id="clearSearch" class="icon-button" aria-label="Clear search" hidden><svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button><kbd class="search-hint">Search</kbd></div>
+<section class="colour-panel" aria-labelledby="colourTitle"><div class="section-heading"><h2 id="colourTitle">Pick a colour</h2><span class="soft-caption">Or leave it open to all colours</span></div><div class="colour-options" id="colourOptions" role="group" aria-label="Colour"></div></section>
+<div class="workspace">
+<aside class="filters" aria-label="Narrow your search">
+<section class="filter-panel picture-categories"><div class="section-heading"><h2 id="categoryPrompt" tabindex="-1">Choose a category</h2><button id="clearCategory" class="text-button">All categories</button></div><nav id="categoryBreadcrumbs" class="category-breadcrumbs" aria-label="Category path"></nav><button type="button" id="categoryAll" class="category-all" hidden></button><div class="category-pictures" id="categoryChoices" role="group" aria-label="Category choices"></div><p id="sizeHint" class="size-hint" hidden>Got the shape? Choose a size below, or see them all.</p><div class="size-panel picture-size"><label for="sizeSelect" class="field-label">Size in stud spacing</label><select id="sizeSelect"></select><p class="field-note">Stud spacing, not millimetres. Some sizes describe the base or a connection.</p></div><div id="crosslinks" class="crosslinks" hidden></div></section>
+</aside>
+<section class="results" aria-labelledby="resultsHeading">
+<div class="results-bar"><div><h2 id="resultsHeading" tabindex="-1">All 56 pieces</h2><p id="resultsCaption">Take a look, or choose something to narrow it down.</p></div><button class="clear-all" id="clearAll">Clear all</button></div>
+<div id="activeFilters" class="active-filters" aria-label="Selected conditions"></div>
+<div id="queryExplanation" class="query-explanation" hidden></div>
+<div id="relatedQueries" class="related-queries" hidden></div>
+<p id="liveStatus" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
+<div id="pieceGrid" class="piece-grid"></div>
+<div id="emptyState" class="empty-state" hidden><span class="empty-icon"><svg class="icon" aria-hidden="true"><use href="#i-search"/></svg></span><h3>No pieces match yet.</h3><p>Try removing a filter or using a different word.</p><div id="emptyRecovery"></div><button class="primary-button" id="startAgain">Start again</button></div>
+</section>
+</div>
+</section>
+<aside id="navigationPanel" class="navigation-pane" aria-labelledby="navigationHeading" data-phase="station" data-selected-piece="">
+<div class="navigation-card">
+<header class="navigation-heading"><div><p class="nav-eyebrow"><svg class="icon" aria-hidden="true"><use href="#i-pin"/></svg>LEGO Navigation Station</p><h2 id="navigationHeading" tabindex="-1">Find it in the room</h2></div><span class="demo-badge">Demo layout</span></header>
+<div id="navigationViewport" class="navigation-viewport">
+<button type="button" id="toggleMap" class="map-toggle scene-map-toggle" aria-pressed="false">Cabinet map</button>
+<div id="navigationScene" class="navigation-scene" tabindex="0" role="group" aria-label="Interactive cabinet. Drag to move, scroll to zoom. Arrow keys move; plus and minus zoom; Home fits the cabinet."></div>
+<div id="cabinetMap" class="cabinet-map" hidden><p class="map-title"><span id="mapCabinetName">Cabinet 1</span><span>Rows from top · columns from left</span></p><div id="cabinetMapGrid" class="cabinet-map-grid" role="group" aria-label="Cabinet 1, seven rows and eight columns"></div><p class="map-station"><svg class="icon" aria-hidden="true"><use href="#i-home"/></svg><span>LEGO Navigation Station<small>You are here</small></span></p></div>
+<div id="sceneLocation" class="scene-location is-destination" hidden><span class="scene-location-dot"></span><span id="sceneLocationText"></span></div>
+<div id="cameraTools" class="camera-tools" role="group" aria-label="Cabinet view controls"><button type="button" id="zoomIn" aria-label="Zoom in">+</button><button type="button" id="zoomOut" aria-label="Zoom out">−</button><button type="button" id="fitCabinet" aria-label="Show the whole cabinet"><svg class="icon" aria-hidden="true"><use href="#i-grid"/></svg></button></div>
+</div>
+<div class="navigation-content">
+<div id="navigationWelcome" class="navigation-welcome"><span class="station-icon"><svg class="icon" aria-hidden="true"><use href="#i-home"/></svg></span><div><h3>You are here.</h3><p>Choose a piece to follow its route to the cabinet.</p></div></div>
+<div id="selectedPiece" class="selected-piece" hidden><div id="selectedPicture" class="selected-picture"></div><div class="selected-copy"><p id="selectedCode" class="selected-code"></p><h3 id="selectedName"></h3><p id="selectedAddress" class="selected-address"></p></div></div>
+<div class="navigation-actions"><button type="button" id="viewDetails" class="nav-details" disabled>View details<svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></button><button type="button" id="replayRoute" disabled><svg class="icon" aria-hidden="true"><use href="#i-replay"/></svg>Replay route</button><button type="button" id="backToStation" disabled><svg class="icon" aria-hidden="true"><use href="#i-home"/></svg>Back to station</button></div>
+<div class="cabinet-legend" aria-label="Cabinet categories"><span data-class="A">A <b>19</b></span><span data-class="B">B <b>10</b></span><span data-class="C">C <b>8</b></span><span data-class="D">D <b>11</b></span><span data-class="E">E <b>8</b></span><span class="legend-caption">7 rows × 8 columns</span></div>
+</div>
+<p id="navigationLive" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
+</div>
+</aside>
+</div>
+</main>
+</div>
+<dialog id="pieceDialog" class="piece-dialog" aria-labelledby="detailTitle"><button class="dialog-close icon-button" data-close aria-label="Close piece details"><svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button><div id="pieceDetail"></div></dialog>
+<dialog id="categoryDialog" class="category-dialog" aria-labelledby="categoryInfoTitle"><button class="dialog-close icon-button" data-close aria-label="Close category information"><svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button><p class="eyebrow">About this category</p><h2 id="categoryInfoTitle"></h2><div id="categoryInfoBody"></div></dialog>
+
+<noscript><p class="noscript-message">Please enable JavaScript in your browser to search this offline collection.</p></noscript>
+<script id="collectionData" type="application/json">/*__DATA__*/</script>
+<script id="locationData" type="application/json">/*__LOCATIONS__*/</script>
+<script>/*__ENGINE__*/</script>
+<script>/*__CATEGORIES__*/</script>
+<script>/*__NAVIGATION__*/</script>
+<script>/*__APP__*/</script>
+</body>
+</html>

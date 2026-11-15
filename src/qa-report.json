@@ -1,0 +1,66 @@
+{
+  "artifact": "/Users/tian/github/lego/index.html",
+  "format": "single self-contained HTML",
+  "records": 56,
+  "embedded_images": 56,
+  "categories": 39,
+  "acceptance_assertions": 52,
+  "two_facet_combinations_compared_to_source": 279,
+  "independent_code_review": "passed; accessibility name and full-set audit coverage fixed",
+  "browser_checks": [
+    "Pink+A = TG002/TG053",
+    "size 1x4 permits changing Pink to Blue = TG039/TG044",
+    "roof tile = 8",
+    "upright slope = 5",
+    "head = TG016",
+    "orange roof tile 2x1 = TG038/TG043",
+    "transparent = 4",
+    "TG002+Blue = 0; removing Blue restores TG002",
+    "B cross-reference reaches TG048 in D2.3",
+    "details preserve original type and zero studs",
+    "responsive DOM: no horizontal page overflow",
+    "no browser console errors"
+  ],
+  "offline_structure": "all data, images, CSS and classic JS embedded; CSP forbids external connections; no fetch/CDN/modules",
+  "verification_limit": "Embedded browser URL policy disallows file:// navigation. Direct double-click launch could not be exercised there; functional browser checks used a temporary loopback HTTP server.",
+  "publication": "none",
+  "image_refresh": {
+    "replacements": 56,
+    "pixels": {
+      "192x192": 10,
+      "250x250": 1,
+      "500x500": 45
+    },
+    "non_image_metadata": "unchanged",
+    "missing_values": "blank in cards and details; missing-size option removed; zero retained",
+    "source_pdf": "80x60 embedded images; used only for matching",
+    "independent_review": "passed"
+  },
+  "download_copy": "/Users/tian/Downloads/LEGO_Piece_Finder.html",
+  "layout_revision": {
+    "removed": [
+      "header",
+      "intro artwork and title",
+      "footer",
+      "bottom left hint",
+      "orphan help dialog and event handlers"
+    ],
+    "search_first": true,
+    "browser_check": "roof tile = 8; Orange+C = TG038,TG043; no console errors",
+    "download": "/Users/tian/Downloads/LEGO_Piece_Finder.html"
+  },
+  "project_root": "/Users/tian/github/lego",
+  "favicon": {
+    "source": "/Users/tian/github/lego/favicon.svg",
+    "embedded": true,
+    "type": "image/svg+xml",
+    "browser_check": "icon link present; no console errors"
+  },
+  "migration": {
+    "source_files_verified": 184,
+    "portable_build": "passed",
+    "query_assertions": 52,
+    "two_facet_combinations": 279,
+    "compatibility_download_link": "/Users/tian/Downloads/LEGO_Piece_Finder.html"
+  }
+}

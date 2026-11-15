@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "TG001",
+    "name": "White round eye tile",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG001.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im0"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im0.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG002",
+    "name": "Pink 1x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG002.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im5"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im5.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG003",
+    "name": "Clear 2x2 slope",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG003.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im14"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im14.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG004",
+    "name": "Lime 1x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG004.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im22"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im22.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG005",
+    "name": "Dark grey 1x3 inverted slope",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG005.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im29"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im29.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG006",
+    "name": "White round eye tile",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG006.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im0"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im0.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG007",
+    "name": "Yellow 2x3 curved brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG007.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im6"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im6.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG008",
+    "name": "Green 2x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG008.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im15"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im15.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG009",
+    "name": "Grey 1x4 arch brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG009.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im23"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im23.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG010",
+    "name": "Dark grey 1x3 slope",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG010.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im30"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im30.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG011",
+    "name": "White round eye tile",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG011.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im0"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im0.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG012",
+    "name": "Yellow 2x6 plate",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG012.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im7"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im7.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG013",
+    "name": "Green 2x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG013.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im16"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im16.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG014",
+    "name": "Grey 1x4 arch brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG014.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im23"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im23.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG015",
+    "name": "Dark grey 1x3 slope",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG015.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im30"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im30.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG016",
+    "name": "Yellow minifigure head",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG016.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im1"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im1.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG017",
+    "name": "Yellow 2x6 plate",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG017.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im7"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im7.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG018",
+    "name": "Green 1x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG018.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im17"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im17.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG019",
+    "name": "Green wavy flag",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG019.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im24"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im24.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG020",
+    "name": "Dark grey ladder",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG020.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im31"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im31.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG021",
+    "name": "White 1x1 brick with side stud",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG021.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im2"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im2.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG022",
+    "name": "White minifigure legs",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG022.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im8"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im8.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG023",
+    "name": "Green 1x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG023.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im17"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im17.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG024",
+    "name": "Green wavy flag",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG024.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im24"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im24.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG025",
+    "name": "Black 4x6 plate",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG025.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im32"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im32.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG026",
+    "name": "White 1x1 brick with side stud",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG026.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im2"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im2.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG027",
+    "name": "Transparent yellow 2x2 round brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG027.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im9"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im9.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG028",
+    "name": "Red 1x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG028.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im18"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im18.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG029",
+    "name": "Green 1x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG029.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im25"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im25.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG030",
+    "name": "Dark grey 1x2 brick with horizontal pin",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG030.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im33"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im33.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG031",
+    "name": "White 1x1 brick with side stud",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG031.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im2"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im2.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG032",
+    "name": "Transparent red 1x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG032.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im10"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im10.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG033",
+    "name": "Red 1x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG033.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im18"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im18.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG034",
+    "name": "Green 1x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG034.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im25"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im25.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG035",
+    "name": "Dark grey 1x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG035.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im34"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im34.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG036",
+    "name": "Black rod",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG036.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im3"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im3.png"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG037",
+    "name": "Transparent red 1x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG037.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im10"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im10.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG038",
+    "name": "Orange 1x2 slope",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG038.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im19"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im19.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG039",
+    "name": "Blue 1x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG039.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im26"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im26.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG040",
+    "name": "Dark grey 1x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG040.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im34"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im34.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG041",
+    "name": "Black rod",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG041.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im3"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im3.png"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG042",
+    "name": "Green flower",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG042.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im11"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im11.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG043",
+    "name": "Orange 1x2 slope",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG043.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im19"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im19.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG044",
+    "name": "Blue 1x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG044.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im26"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im26.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG045",
+    "name": "Pink-purple flower",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG045.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im4"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im4.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG046",
+    "name": "Blue minifigure torso",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG046.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im12"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im12.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG047",
+    "name": "Orange 2x4 plate",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG047.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im20"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im20.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG048",
+    "name": "Dark grey 2x2 plate with vertical pin",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG048.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im27"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im27.png"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG049",
+    "name": "Pink-purple flower",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG049.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im4"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im4.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG050",
+    "name": "Pale yellow 1x10 plate",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG050.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im13"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im13.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG051",
+    "name": "Orange 2x3 plate",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG051.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im21"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im21.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG052",
+    "name": "Black four-arm rotor",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG052.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im28"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im28.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG053",
+    "name": "Pink 1x4 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG053.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im5"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im5.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG054",
+    "name": "Pale yellow 1x10 plate",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG054.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im13"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im13.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG055",
+    "name": "Lime 1x2 brick",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG055.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im22"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im22.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  },
+  {
+    "id": "TG056",
+    "name": "Dark grey 1x3 inverted slope",
+    "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG056.png",
+    "existingPixels": [
+      80,
+      60
+    ],
+    "exactDecodedPixelMatch": true,
+    "confidence": "exact",
+    "matchingPdfImages": [
+      "Im29"
+    ],
+    "matchingSourcePaths": [
+      "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im29.jpg"
+    ],
+    "higherResolutionReplacementAvailable": false
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-15",
+  "status": "PASS",
+  "artifact": "/Users/tian/github/lego/index.html",
+  "bytes": 4416361,
+  "sha256": "7b8bd57dec72ff1944f55084de296e7c106a3fff706af88d62a07cd8c4863efd",
+  "automated": {
+    "searchAssertions": 52,
+    "twoFacetCombinations": 279,
+    "locations": 56,
+    "routeSamples": 22624,
+    "offlineArtifactChecks": "PASS"
+  },
+  "browser": {
+    "default56": true,
+    "TG002SeparateFromTG053": true,
+    "OrangeC": true,
+    "rapidSelection": true,
+    "replay": true,
+    "stationPreservesSearch": true,
+    "filterPreservesOrResetsSelection": true,
+    "clearAll": true,
+    "detailsReturn": true,
+    "mobileTabs": true,
+    "mobileScrollRestored": {
+      "before": 323,
+      "after": 323
+    },
+    "keyboardEnter": true,
+    "keyboardSkipRevealsSearch": true,
+    "breakpoints": [
+      1100,
+      1099
+    ],
+    "mobileWidth": 390,
+    "noHorizontalOverflow": true,
+    "noWebGLFallback": true,
+    "reducedMotion": true,
+    "brokenImagesRetainText": true,
+    "contextLossFallback": true,
+    "serverStoppedInteraction": true
+  },
+  "review": "docs/navigation-code-review.md",
+  "limitations": [
+    "Direct file URL navigation was unavailable in browser automation; verified final HTML via loopback and then with its preview server stopped.",
+    "Cabinet locations are a demo layout."
+  ],
+  "preview": "/Users/tian/github/lego/preview.jpg"
+}

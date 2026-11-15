@@ -1,0 +1,297 @@
+{
+  "version": 1,
+  "demo": true,
+  "station": {
+    "label": "LEGO Navigation Station"
+  },
+  "cabinets": [
+    {
+      "id": "cabinet-1",
+      "label": "Cabinet 1",
+      "rows": 7,
+      "columns": 8
+    }
+  ],
+  "pieceLocations": {
+    "TG002": {
+      "cabinetId": "cabinet-1",
+      "row": 1,
+      "column": 1
+    },
+    "TG004": {
+      "cabinetId": "cabinet-1",
+      "row": 1,
+      "column": 2
+    },
+    "TG008": {
+      "cabinetId": "cabinet-1",
+      "row": 1,
+      "column": 3
+    },
+    "TG013": {
+      "cabinetId": "cabinet-1",
+      "row": 1,
+      "column": 4
+    },
+    "TG018": {
+      "cabinetId": "cabinet-1",
+      "row": 1,
+      "column": 5
+    },
+    "TG023": {
+      "cabinetId": "cabinet-1",
+      "row": 1,
+      "column": 6
+    },
+    "TG027": {
+      "cabinetId": "cabinet-1",
+      "row": 1,
+      "column": 7
+    },
+    "TG028": {
+      "cabinetId": "cabinet-1",
+      "row": 1,
+      "column": 8
+    },
+    "TG029": {
+      "cabinetId": "cabinet-1",
+      "row": 2,
+      "column": 1
+    },
+    "TG032": {
+      "cabinetId": "cabinet-1",
+      "row": 2,
+      "column": 2
+    },
+    "TG033": {
+      "cabinetId": "cabinet-1",
+      "row": 2,
+      "column": 3
+    },
+    "TG034": {
+      "cabinetId": "cabinet-1",
+      "row": 2,
+      "column": 4
+    },
+    "TG035": {
+      "cabinetId": "cabinet-1",
+      "row": 2,
+      "column": 5
+    },
+    "TG037": {
+      "cabinetId": "cabinet-1",
+      "row": 2,
+      "column": 6
+    },
+    "TG039": {
+      "cabinetId": "cabinet-1",
+      "row": 2,
+      "column": 7
+    },
+    "TG040": {
+      "cabinetId": "cabinet-1",
+      "row": 2,
+      "column": 8
+    },
+    "TG044": {
+      "cabinetId": "cabinet-1",
+      "row": 3,
+      "column": 1
+    },
+    "TG053": {
+      "cabinetId": "cabinet-1",
+      "row": 3,
+      "column": 2
+    },
+    "TG055": {
+      "cabinetId": "cabinet-1",
+      "row": 3,
+      "column": 3
+    },
+    "TG001": {
+      "cabinetId": "cabinet-1",
+      "row": 3,
+      "column": 4
+    },
+    "TG006": {
+      "cabinetId": "cabinet-1",
+      "row": 3,
+      "column": 5
+    },
+    "TG011": {
+      "cabinetId": "cabinet-1",
+      "row": 3,
+      "column": 6
+    },
+    "TG012": {
+      "cabinetId": "cabinet-1",
+      "row": 3,
+      "column": 7
+    },
+    "TG017": {
+      "cabinetId": "cabinet-1",
+      "row": 3,
+      "column": 8
+    },
+    "TG025": {
+      "cabinetId": "cabinet-1",
+      "row": 4,
+      "column": 1
+    },
+    "TG047": {
+      "cabinetId": "cabinet-1",
+      "row": 4,
+      "column": 2
+    },
+    "TG050": {
+      "cabinetId": "cabinet-1",
+      "row": 4,
+      "column": 3
+    },
+    "TG051": {
+      "cabinetId": "cabinet-1",
+      "row": 4,
+      "column": 4
+    },
+    "TG054": {
+      "cabinetId": "cabinet-1",
+      "row": 4,
+      "column": 5
+    },
+    "TG003": {
+      "cabinetId": "cabinet-1",
+      "row": 4,
+      "column": 6
+    },
+    "TG005": {
+      "cabinetId": "cabinet-1",
+      "row": 4,
+      "column": 7
+    },
+    "TG007": {
+      "cabinetId": "cabinet-1",
+      "row": 4,
+      "column": 8
+    },
+    "TG010": {
+      "cabinetId": "cabinet-1",
+      "row": 5,
+      "column": 1
+    },
+    "TG015": {
+      "cabinetId": "cabinet-1",
+      "row": 5,
+      "column": 2
+    },
+    "TG038": {
+      "cabinetId": "cabinet-1",
+      "row": 5,
+      "column": 3
+    },
+    "TG043": {
+      "cabinetId": "cabinet-1",
+      "row": 5,
+      "column": 4
+    },
+    "TG056": {
+      "cabinetId": "cabinet-1",
+      "row": 5,
+      "column": 5
+    },
+    "TG009": {
+      "cabinetId": "cabinet-1",
+      "row": 5,
+      "column": 6
+    },
+    "TG014": {
+      "cabinetId": "cabinet-1",
+      "row": 5,
+      "column": 7
+    },
+    "TG020": {
+      "cabinetId": "cabinet-1",
+      "row": 5,
+      "column": 8
+    },
+    "TG021": {
+      "cabinetId": "cabinet-1",
+      "row": 6,
+      "column": 1
+    },
+    "TG026": {
+      "cabinetId": "cabinet-1",
+      "row": 6,
+      "column": 2
+    },
+    "TG030": {
+      "cabinetId": "cabinet-1",
+      "row": 6,
+      "column": 3
+    },
+    "TG031": {
+      "cabinetId": "cabinet-1",
+      "row": 6,
+      "column": 4
+    },
+    "TG036": {
+      "cabinetId": "cabinet-1",
+      "row": 6,
+      "column": 5
+    },
+    "TG041": {
+      "cabinetId": "cabinet-1",
+      "row": 6,
+      "column": 6
+    },
+    "TG048": {
+      "cabinetId": "cabinet-1",
+      "row": 6,
+      "column": 7
+    },
+    "TG052": {
+      "cabinetId": "cabinet-1",
+      "row": 6,
+      "column": 8
+    },
+    "TG016": {
+      "cabinetId": "cabinet-1",
+      "row": 7,
+      "column": 1
+    },
+    "TG019": {
+      "cabinetId": "cabinet-1",
+      "row": 7,
+      "column": 2
+    },
+    "TG022": {
+      "cabinetId": "cabinet-1",
+      "row": 7,
+      "column": 3
+    },
+    "TG024": {
+      "cabinetId": "cabinet-1",
+      "row": 7,
+      "column": 4
+    },
+    "TG042": {
+      "cabinetId": "cabinet-1",
+      "row": 7,
+      "column": 5
+    },
+    "TG045": {
+      "cabinetId": "cabinet-1",
+      "row": 7,
+      "column": 6
+    },
+    "TG046": {
+      "cabinetId": "cabinet-1",
+      "row": 7,
+      "column": 7
+    },
+    "TG049": {
+      "cabinetId": "cabinet-1",
+      "row": 7,
+      "column": 8
+    }
+  }
+}

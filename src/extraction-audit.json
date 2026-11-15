@@ -1,0 +1,422 @@
+{
+  "records": 56,
+  "uniqueIdentifiers": 56,
+  "anchoredImages": 56,
+  "categoryNodes": 39,
+  "mainClassCounts": {
+    "A": 19,
+    "B": 10,
+    "C": 8,
+    "D": 11,
+    "E": 8
+  },
+  "preferredTerms": 30,
+  "useRelationships": 15,
+  "missingSize": 14,
+  "zeroTopStudsIds": [
+    "TG001",
+    "TG006",
+    "TG011",
+    "TG019",
+    "TG024",
+    "TG036",
+    "TG041",
+    "TG045",
+    "TG048",
+    "TG049"
+  ],
+  "images": [
+    {
+      "id": "TG001",
+      "worksheetRow": 7,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image.png",
+      "bytes": 5857
+    },
+    {
+      "id": "TG002",
+      "worksheetRow": 8,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image2.png",
+      "bytes": 7644
+    },
+    {
+      "id": "TG003",
+      "worksheetRow": 9,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image3.png",
+      "bytes": 6582
+    },
+    {
+      "id": "TG004",
+      "worksheetRow": 10,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image4.png",
+      "bytes": 6412
+    },
+    {
+      "id": "TG005",
+      "worksheetRow": 11,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image5.png",
+      "bytes": 5001
+    },
+    {
+      "id": "TG006",
+      "worksheetRow": 12,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image6.png",
+      "bytes": 5857
+    },
+    {
+      "id": "TG007",
+      "worksheetRow": 13,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image7.png",
+      "bytes": 8074
+    },
+    {
+      "id": "TG008",
+      "worksheetRow": 14,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image8.png",
+      "bytes": 7314
+    },
+    {
+      "id": "TG009",
+      "worksheetRow": 15,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image9.png",
+      "bytes": 4507
+    },
+    {
+      "id": "TG010",
+      "worksheetRow": 16,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image10.png",
+      "bytes": 4726
+    },
+    {
+      "id": "TG011",
+      "worksheetRow": 17,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image11.png",
+      "bytes": 5857
+    },
+    {
+      "id": "TG012",
+      "worksheetRow": 18,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image12.png",
+      "bytes": 6256
+    },
+    {
+      "id": "TG013",
+      "worksheetRow": 19,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image13.png",
+      "bytes": 7909
+    },
+    {
+      "id": "TG014",
+      "worksheetRow": 20,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image14.png",
+      "bytes": 4507
+    },
+    {
+      "id": "TG015",
+      "worksheetRow": 21,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image15.png",
+      "bytes": 4726
+    },
+    {
+      "id": "TG016",
+      "worksheetRow": 22,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image16.png",
+      "bytes": 5985
+    },
+    {
+      "id": "TG017",
+      "worksheetRow": 23,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image17.png",
+      "bytes": 6256
+    },
+    {
+      "id": "TG018",
+      "worksheetRow": 24,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image18.png",
+      "bytes": 7001
+    },
+    {
+      "id": "TG019",
+      "worksheetRow": 25,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image19.png",
+      "bytes": 6464
+    },
+    {
+      "id": "TG020",
+      "worksheetRow": 26,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image20.png",
+      "bytes": 5610
+    },
+    {
+      "id": "TG021",
+      "worksheetRow": 27,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image21.png",
+      "bytes": 3309
+    },
+    {
+      "id": "TG022",
+      "worksheetRow": 28,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image22.png",
+      "bytes": 3336
+    },
+    {
+      "id": "TG023",
+      "worksheetRow": 29,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image23.png",
+      "bytes": 7001
+    },
+    {
+      "id": "TG024",
+      "worksheetRow": 30,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image24.png",
+      "bytes": 6464
+    },
+    {
+      "id": "TG025",
+      "worksheetRow": 31,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image25.png",
+      "bytes": 5225
+    },
+    {
+      "id": "TG026",
+      "worksheetRow": 32,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image26.png",
+      "bytes": 3309
+    },
+    {
+      "id": "TG027",
+      "worksheetRow": 33,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image27.png",
+      "bytes": 7828
+    },
+    {
+      "id": "TG028",
+      "worksheetRow": 34,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image28.png",
+      "bytes": 7354
+    },
+    {
+      "id": "TG029",
+      "worksheetRow": 35,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image29.png",
+      "bytes": 6590
+    },
+    {
+      "id": "TG030",
+      "worksheetRow": 36,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image30.png",
+      "bytes": 4607
+    },
+    {
+      "id": "TG031",
+      "worksheetRow": 37,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image31.png",
+      "bytes": 3309
+    },
+    {
+      "id": "TG032",
+      "worksheetRow": 38,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image32.png",
+      "bytes": 8211
+    },
+    {
+      "id": "TG033",
+      "worksheetRow": 39,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image33.png",
+      "bytes": 7354
+    },
+    {
+      "id": "TG034",
+      "worksheetRow": 40,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image34.png",
+      "bytes": 6590
+    },
+    {
+      "id": "TG035",
+      "worksheetRow": 41,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image35.png",
+      "bytes": 4253
+    },
+    {
+      "id": "TG036",
+      "worksheetRow": 42,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image36.png",
+      "bytes": 865
+    },
+    {
+      "id": "TG037",
+      "worksheetRow": 43,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image37.png",
+      "bytes": 8211
+    },
+    {
+      "id": "TG038",
+      "worksheetRow": 44,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image38.png",
+      "bytes": 6879
+    },
+    {
+      "id": "TG039",
+      "worksheetRow": 45,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image39.png",
+      "bytes": 7299
+    },
+    {
+      "id": "TG040",
+      "worksheetRow": 46,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image40.png",
+      "bytes": 4253
+    },
+    {
+      "id": "TG041",
+      "worksheetRow": 47,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image41.png",
+      "bytes": 865
+    },
+    {
+      "id": "TG042",
+      "worksheetRow": 48,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image42.png",
+      "bytes": 7860
+    },
+    {
+      "id": "TG043",
+      "worksheetRow": 49,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image43.png",
+      "bytes": 6879
+    },
+    {
+      "id": "TG044",
+      "worksheetRow": 50,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image44.png",
+      "bytes": 7299
+    },
+    {
+      "id": "TG045",
+      "worksheetRow": 51,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image45.png",
+      "bytes": 7865
+    },
+    {
+      "id": "TG046",
+      "worksheetRow": 52,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image46.png",
+      "bytes": 7557
+    },
+    {
+      "id": "TG047",
+      "worksheetRow": 53,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image47.png",
+      "bytes": 7124
+    },
+    {
+      "id": "TG048",
+      "worksheetRow": 54,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image48.png",
+      "bytes": 3936
+    },
+    {
+      "id": "TG049",
+      "worksheetRow": 55,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image49.png",
+      "bytes": 7865
+    },
+    {
+      "id": "TG050",
+      "worksheetRow": 56,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image50.png",
+      "bytes": 3815
+    },
+    {
+      "id": "TG051",
+      "worksheetRow": 57,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image51.png",
+      "bytes": 7663
+    },
+    {
+      "id": "TG052",
+      "worksheetRow": 58,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image52.png",
+      "bytes": 6568
+    },
+    {
+      "id": "TG053",
+      "worksheetRow": 59,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image53.png",
+      "bytes": 7644
+    },
+    {
+      "id": "TG054",
+      "worksheetRow": 60,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image54.png",
+      "bytes": 3815
+    },
+    {
+      "id": "TG055",
+      "worksheetRow": 61,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image55.png",
+      "bytes": 6412
+    },
+    {
+      "id": "TG056",
+      "worksheetRow": 62,
+      "worksheetColumn": "B",
+      "imagePart": "xl/media/image56.png",
+      "bytes": 5001
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "lego-piece-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A standalone offline LEGO collection search and cabinet navigation demo",
+  "scripts": {
+    "build": "python3 src/build_index.py",
+    "test": "node src/test_engine.cjs && node src/test_navigation.cjs && node src/test_picture_browser.cjs"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

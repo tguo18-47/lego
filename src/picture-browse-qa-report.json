@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-15",
+  "status": "PASS",
+  "layout": "PC only, persistent two panes, 1160px minimum width",
+  "artifact": "/Users/tian/github/lego/index.html",
+  "bytes": 4443809,
+  "sha256": "f5af368dcd2cdb0bee64c937acf85face3b87392df9f1ef34dfa594789f7c8c7",
+  "automated": {
+    "searchAssertions": 52,
+    "twoFacetCombinations": 279,
+    "locations": 56,
+    "routeSamples": 22624,
+    "categoryNodes": 39,
+    "constrainedViews": 375,
+    "fitAspects": 4,
+    "tapDragPinch": "PASS",
+    "offlineArtifactChecks": "PASS"
+  },
+  "browser": {
+    "pictureCategories": true,
+    "progressiveChildren": true,
+    "breadcrumbs": true,
+    "sizeHandoff": true,
+    "zeroCountInformation": true,
+    "crossReferenceBtoD23": true,
+    "threeDPickTG002": true,
+    "mapPickTG053": true,
+    "clearsConflictingConditions": true,
+    "preservesMatchingConditions": true,
+    "revealsSelectedCard": true,
+    "nativeDragNoPick": true,
+    "nativeWheelZoom": true,
+    "keyboardControls": true,
+    "manualInterruptsFlight": true,
+    "fitPreservesSelection": true,
+    "noWebGLClickableFallback": true,
+    "reducedMotion": true,
+    "brokenImageRetainsText": true,
+    "contextLossFallback": true,
+    "syntheticTouchDragAndPinchNoPick": true,
+    "pcLayoutAtNarrowWindow": {
+      "windowWidth": 484,
+      "documentWidth": 1160,
+      "panesVisible": 2,
+      "categoryColumns": 3,
+      "mobileTabs": false
+    },
+    "previewServerStoppedThenFilterPickAndDetails": "PASS"
+  },
+  "review": "docs/picture-browse-code-review.md",
+  "preview": "/Users/tian/github/lego/preview-pc.jpg",
+  "limitations": [
+    "Direct file URL automation unavailable: checked the final artifact via loopback and after stopping its server.",
+    "Touch-input checks use a synthetic PointerEvent fixture, not a physical device.",
+    "Cabinet addresses are demo positions."
+  ]
+}

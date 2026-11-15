@@ -1,0 +1,740 @@
+{
+  "coveredTgIds": [
+    "TG001",
+    "TG002",
+    "TG003",
+    "TG004",
+    "TG005",
+    "TG006",
+    "TG007",
+    "TG008",
+    "TG009",
+    "TG010",
+    "TG011",
+    "TG012",
+    "TG013",
+    "TG014",
+    "TG015",
+    "TG016",
+    "TG017",
+    "TG018",
+    "TG019",
+    "TG020",
+    "TG021",
+    "TG022",
+    "TG023",
+    "TG024",
+    "TG025",
+    "TG026",
+    "TG027",
+    "TG028",
+    "TG029",
+    "TG030",
+    "TG031",
+    "TG032",
+    "TG033",
+    "TG034",
+    "TG035",
+    "TG036",
+    "TG037",
+    "TG038",
+    "TG039",
+    "TG040",
+    "TG041",
+    "TG042",
+    "TG043",
+    "TG044",
+    "TG045",
+    "TG046",
+    "TG047",
+    "TG048",
+    "TG049",
+    "TG050",
+    "TG051",
+    "TG052",
+    "TG053",
+    "TG054",
+    "TG055",
+    "TG056"
+  ],
+  "coveredTgCount": 56,
+  "coveredAppearances": 35,
+  "unmatchedTgIds": [],
+  "resolutionByTgCount": {
+    "192x192": 10,
+    "500x500": 45,
+    "250x250": 1
+  },
+  "resolutionByAppearanceCount": {
+    "192x192": 7,
+    "500x500": 27,
+    "250x250": 1
+  },
+  "upscalingPerformed": false,
+  "aiRedrawingPerformed": false,
+  "metadataModified": false,
+  "mappingEvidence": [
+    "The original handout PDF was audited: all 35 source rasters are 80x60, and its decoded RGB pixels exactly match all 56 current TG assets.",
+    "Catalogue design numbers and element IDs were identified using the supplied set catalogue, its historical inventory and the current Brickset LEGO Customer Services inventory.",
+    "All 35 higher-resolution appearances were reviewed side by side against the original thumbnails.",
+    "Rebrickable native LDraw renders preferred where the mould and palette match; official LEGO images retained for eye print, female face, blue/white/yellow torso, legacy pin connections, transparent clear slope and flower mould."
+  ],
+  "referenceUrls": [
+    "https://www.bricklink.com/catalogItemInv.asp?S=2000409-2&viewCodes=Y",
+    "https://brickset.com/inventories/2000409-1",
+    "https://seriousplaypro.com/bricks/web/"
+  ],
+  "selectedAppearances": [
+    {
+      "representative": "TG001",
+      "ids": [
+        "TG001",
+        "TG006",
+        "TG011"
+      ],
+      "sourceUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6284599.jpg",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG001-lego-6284599.jpg",
+      "provider": "lego",
+      "pixels": [
+        192,
+        192
+      ],
+      "elementId": "6284599",
+      "partId": null,
+      "ldrawColour": null,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "White 1x1 round tile with a black pupil and white highlight; printed element, official image retained."
+    },
+    {
+      "representative": "TG002",
+      "ids": [
+        "TG002",
+        "TG053"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/5/3010.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG002-rb-3010-5.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4206364",
+      "partId": "3010",
+      "ldrawColour": 5,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x4 brick; local name Pink. Compare the catalogue Dark Pink hue to the supplied illustration before approving."
+    },
+    {
+      "representative": "TG003",
+      "ids": [
+        "TG003"
+      ],
+      "sourceUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/622740.jpg",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG003-lego-622740.jpg",
+      "provider": "lego",
+      "pixels": [
+        192,
+        192
+      ],
+      "elementId": "622740",
+      "partId": "3039",
+      "ldrawColour": 47,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "45-degree 2x2 slope, Trans-Clear. Official 192px image chosen over larger LDraw render because it preserves visibly transparent glass-like appearance."
+    },
+    {
+      "representative": "TG004",
+      "ids": [
+        "TG004",
+        "TG055"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/27/3004.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG004-rb-3004-27.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4164022",
+      "partId": "3004",
+      "ldrawColour": 27,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x2 brick, Lime / Bright Yellowish Green."
+    },
+    {
+      "representative": "TG005",
+      "ids": [
+        "TG005",
+        "TG056"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/72/4287b.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG005-rb-4287b-72.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4211068",
+      "partId": "4287b",
+      "ldrawColour": 72,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Inverted 33-degree 3x1 slope, Dark Bluish Gray; preserve inverted form. Catalogue camera shows the same mould from a different face/orientation than the original handout; no geometric or metadata alteration."
+    },
+    {
+      "representative": "TG007",
+      "ids": [
+        "TG007"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/14/6215.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG007-rb-6215-14.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "621524",
+      "partId": "6215",
+      "ldrawColour": 14,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Curved 3x2 brick with four studs, Yellow; local C3 assignment remains unchanged."
+    },
+    {
+      "representative": "TG008",
+      "ids": [
+        "TG008"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/2/3003.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG008-rb-3003-2.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "300328",
+      "partId": "3003",
+      "ldrawColour": 2,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "2x2 brick, Green."
+    },
+    {
+      "representative": "TG009",
+      "ids": [
+        "TG009",
+        "TG014"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/71/3659.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG009-rb-3659-71.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4211435",
+      "partId": "3659",
+      "ldrawColour": 71,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x4 arch, Light Bluish Gray."
+    },
+    {
+      "representative": "TG010",
+      "ids": [
+        "TG010",
+        "TG015"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/72/4286.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG010-rb-4286-72.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4211045",
+      "partId": "4286",
+      "ldrawColour": 72,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Upright 33-degree 3x1 slope, Dark Bluish Gray."
+    },
+    {
+      "representative": "TG012",
+      "ids": [
+        "TG012",
+        "TG017"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/14/3795.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG012-rb-3795-14.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "379524",
+      "partId": "3795",
+      "ldrawColour": 14,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "2x6 plate, Yellow."
+    },
+    {
+      "representative": "TG013",
+      "ids": [
+        "TG013"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/2/3001.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG013-rb-3001-2.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4106356",
+      "partId": "3001",
+      "ldrawColour": 2,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "2x4 brick, Green."
+    },
+    {
+      "representative": "TG016",
+      "ids": [
+        "TG016"
+      ],
+      "sourceUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4651442.jpg",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG016-lego-4651442.jpg",
+      "provider": "lego",
+      "pixels": [
+        192,
+        192
+      ],
+      "elementId": "4651442",
+      "partId": null,
+      "ldrawColour": null,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Printed female minifigure head with eyelashes and red lips; official element image retained to avoid a changed print."
+    },
+    {
+      "representative": "TG018",
+      "ids": [
+        "TG018",
+        "TG023"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/2/3010.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG018-rb-3010-2.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4112838",
+      "partId": "3010",
+      "ldrawColour": 2,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x4 brick, Green."
+    },
+    {
+      "representative": "TG019",
+      "ids": [
+        "TG019",
+        "TG024"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/2/4495b.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG019-rb-4495b-2.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "449528",
+      "partId": "4495b",
+      "ldrawColour": 2,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Wavy flag with cylindrical attachment, Green; compare mould to original. Catalogue camera shows the same mould from a different face/orientation than the original handout; no geometric or metadata alteration."
+    },
+    {
+      "representative": "TG020",
+      "ids": [
+        "TG020"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/72/4175.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG020-rb-4175-72.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4603504",
+      "partId": "4175",
+      "ldrawColour": 72,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Short ladder with 1x2 studded top connection, Dark Bluish Gray; preserve original ladder structure."
+    },
+    {
+      "representative": "TG021",
+      "ids": [
+        "TG021",
+        "TG026",
+        "TG031"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/15/87087.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG021-rb-87087-15.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4558952",
+      "partId": "87087",
+      "ldrawColour": 15,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "White 1x1 brick with one side stud."
+    },
+    {
+      "representative": "TG022",
+      "ids": [
+        "TG022"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/15/970c00.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG022-rb-970c00-15.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4570434",
+      "partId": "970c00",
+      "ldrawColour": 15,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Assembled plain white hips and legs, not a single separated leg."
+    },
+    {
+      "representative": "TG025",
+      "ids": [
+        "TG025"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/0/3032.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG025-rb-3032-0.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "303226",
+      "partId": "3032",
+      "ldrawColour": 0,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "4x6 plate, Black."
+    },
+    {
+      "representative": "TG027",
+      "ids": [
+        "TG027"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/46/3941.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG027-rb-3941-46.png",
+      "provider": "rebrickable",
+      "pixels": [
+        250,
+        250
+      ],
+      "elementId": "611644",
+      "partId": "3941",
+      "ldrawColour": 46,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "2x2 round brick with axle hole, Trans-Yellow. Native 250px render verified visually: transparent yellow, four top studs and round 2x2 geometry."
+    },
+    {
+      "representative": "TG028",
+      "ids": [
+        "TG028",
+        "TG033"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/4/3010.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG028-rb-3010-4.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "301021",
+      "partId": "3010",
+      "ldrawColour": 4,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x4 brick, Red."
+    },
+    {
+      "representative": "TG029",
+      "ids": [
+        "TG029",
+        "TG034"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/2/3004.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG029-rb-3004-2.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4107736",
+      "partId": "3004",
+      "ldrawColour": 2,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x2 brick, Green."
+    },
+    {
+      "representative": "TG030",
+      "ids": [
+        "TG030"
+      ],
+      "sourceUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211087.jpg",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG030-lego-4211087.jpg",
+      "provider": "lego",
+      "pixels": [
+        192,
+        192
+      ],
+      "elementId": "4211087",
+      "partId": null,
+      "ldrawColour": null,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Dark Bluish Gray 1x2 brick with horizontal pin; official legacy element image retained for pin/mould fidelity."
+    },
+    {
+      "representative": "TG032",
+      "ids": [
+        "TG032",
+        "TG037"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/36/3065.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG032-rb-3065-36.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "306541",
+      "partId": "3065",
+      "ldrawColour": 36,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x2 brick without bottom tube, Trans-Red; preserve hollow internal construction."
+    },
+    {
+      "representative": "TG035",
+      "ids": [
+        "TG035",
+        "TG040"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/72/3004.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG035-rb-3004-72.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4211088",
+      "partId": "3004",
+      "ldrawColour": 72,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x2 brick, Dark Bluish Gray."
+    },
+    {
+      "representative": "TG036",
+      "ids": [
+        "TG036",
+        "TG041"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/0/3957a.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG036-rb-3957a-0.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "395726",
+      "partId": "3957a",
+      "ldrawColour": 0,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "4H antenna with round top, Black; preserve top and base shape."
+    },
+    {
+      "representative": "TG038",
+      "ids": [
+        "TG038",
+        "TG043"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/25/3040b.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG038-rb-3040b-25.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4121967",
+      "partId": "3040b",
+      "ldrawColour": 25,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "45-degree 2x1 slope, Orange."
+    },
+    {
+      "representative": "TG039",
+      "ids": [
+        "TG039",
+        "TG044"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/1/3010.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG039-rb-3010-1.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "301023",
+      "partId": "3010",
+      "ldrawColour": 1,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x4 brick, Blue."
+    },
+    {
+      "representative": "TG042",
+      "ids": [
+        "TG042"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/10/4727.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG042-rb-4727-10.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4143562",
+      "partId": "4727",
+      "ldrawColour": 10,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Angular four-leaf flower/stalk, Bright Green; distinct from rounded petal flower. Catalogue camera shows the same mould from a different face/orientation than the original handout; no geometric or metadata alteration."
+    },
+    {
+      "representative": "TG045",
+      "ids": [
+        "TG045",
+        "TG049"
+      ],
+      "sourceUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4142898.jpg",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG045-lego-4142898.jpg",
+      "provider": "lego",
+      "pixels": [
+        192,
+        192
+      ],
+      "elementId": "4142898",
+      "partId": "4728",
+      "ldrawColour": 114,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Rounded petal flower with open stud, Trans-Dark Pink; do not use newer 32606 flower mould."
+    },
+    {
+      "representative": "TG046",
+      "ids": [
+        "TG046"
+      ],
+      "sourceUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4275813.jpg",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG046-lego-4275813.jpg",
+      "provider": "lego",
+      "pixels": [
+        192,
+        192
+      ],
+      "elementId": "4275813",
+      "partId": null,
+      "ldrawColour": null,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Blue torso assembly with WHITE arms and YELLOW hands; official exact multi-colour assembly image retained."
+    },
+    {
+      "representative": "TG047",
+      "ids": [
+        "TG047"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/25/3020.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG047-rb-3020-25.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4158355",
+      "partId": "3020",
+      "ldrawColour": 25,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "2x4 plate, Orange."
+    },
+    {
+      "representative": "TG048",
+      "ids": [
+        "TG048"
+      ],
+      "sourceUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211129.jpg",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG048-lego-4211129.jpg",
+      "provider": "lego",
+      "pixels": [
+        192,
+        192
+      ],
+      "elementId": "4211129",
+      "partId": null,
+      "ldrawColour": null,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Dark Bluish Gray 2x2 base with vertical pin; official legacy element image retained for pin/mould fidelity."
+    },
+    {
+      "representative": "TG050",
+      "ids": [
+        "TG050",
+        "TG054"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/19/4477.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG050-rb-4477-19.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4143409",
+      "partId": "4477",
+      "ldrawColour": 19,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "1x10 plate, catalogue Tan / Brick Yellow; source local name Pale yellow remains unchanged."
+    },
+    {
+      "representative": "TG051",
+      "ids": [
+        "TG051"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/25/3021.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG051-rb-3021-25.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "4125278",
+      "partId": "3021",
+      "ldrawColour": 25,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "2x3 plate, Orange."
+    },
+    {
+      "representative": "TG052",
+      "ids": [
+        "TG052"
+      ],
+      "sourceUrl": "https://cdn.rebrickable.com/media/parts/ldraw/0/2479.png",
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/catalogue-images/TG052-rb-2479-0.png",
+      "provider": "rebrickable",
+      "pixels": [
+        500,
+        500
+      ],
+      "elementId": "247926",
+      "partId": "2479",
+      "ldrawColour": 0,
+      "confidence": "high: catalogue design/colour plus visual side-by-side comparison",
+      "matchNotes": "Four rounded rotor blades and open hub, Black. Catalogue camera shows the same mould from a different face/orientation than the original handout; no geometric or metadata alteration."
+    }
+  ]
+}

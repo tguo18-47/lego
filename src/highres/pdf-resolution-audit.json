@@ -1,0 +1,3468 @@
+{
+  "sourcePdf": "/Users/tian/Downloads/LEGO_CutOutAndKeep (1).pdf",
+  "pages": 1,
+  "uniqueEmbeddedImages": 35,
+  "sourcePixelDimensions": [
+    [
+      80,
+      60
+    ]
+  ],
+  "vectorDrawingCounts": [
+    {
+      "page": 1,
+      "curves": 0,
+      "rectangles": 0,
+      "lines": 0,
+      "imageDrawings": 112
+    }
+  ],
+  "matchedTgCount": 56,
+  "unmatchedTgIds": [],
+  "uniqueMatchedAppearances": 35,
+  "highResolutionAssetsAvailable": false,
+  "upscalingPerformed": false,
+  "sourceFilesExtractedUnchanged": true,
+  "recommendation": "Do not replace the current assets on a claim of improved resolution. All 35 source images are 80x60 rasters, and all 56 current TG thumbnails exactly match their decoded RGB pixels. Obtain a genuinely larger source image or vector resource instead.",
+  "images": [
+    {
+      "pdfImageName": "Im0",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im0.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1797,
+      "decodedRgbSha256": "ff224f24825b6fa7b5b11c3596a2ffd9ab5627be29e9b8d3ac5a6a51811d8347",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            72.00001709999992,
+            132.02618399904767,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            127.31935309999994,
+            132.02618399904767,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            182.63862799999993,
+            132.02618399904767,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            72.00001709999992,
+            132.02618399904767,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            127.31935309999994,
+            132.02618399904767,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            182.63862799999993,
+            132.02618399904767,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im1",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im1.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1922,
+      "decodedRgbSha256": "ce21faa3cbf666f2ed03b00e904f94e320241fde20577835b0ca0c8d1a800bcc",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            237.95802489999994,
+            132.02618399904767,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            237.95802489999994,
+            132.02618399904767,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im2",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im2.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1292,
+      "decodedRgbSha256": "4523f5bda2b85d2216c3d9aa4420b7df0bf93af420fa4de535aa00fe02906283",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            293.2772997999999,
+            132.02618399904767,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            348.59669679999996,
+            132.02618399904767,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            403.9159717,
+            132.02618399904767,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            293.2772997999999,
+            132.02618399904767,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            348.59669679999996,
+            132.02618399904767,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            403.9159717,
+            132.02618399904767,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im3",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im3.png",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 865,
+      "decodedRgbSha256": "cb491db335821e172373588c1d38db548851bcb8e2ed0ab82f311ad3c03db920",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            459.2353382,
+            132.02618399904767,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            514.5546436,
+            132.02618399904767,
+            559.55464
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            459.2353382,
+            132.02618399904767,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            514.5546436,
+            132.02618399904767,
+            559.55464
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im4",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im4.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2162,
+      "decodedRgbSha256": "cc76da40680b4dcd85c5db340820fe671197ec999e3189b4ae986205dedf8d22",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            569.8739794999999,
+            132.02618399904767,
+            614.8739759
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            625.1933764999999,
+            132.02618399904767,
+            670.1933729
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            569.8739794999999,
+            132.02618399904767,
+            614.8739759
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            625.1933764999999,
+            132.02618399904767,
+            670.1933729
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im5",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im5.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2139,
+      "decodedRgbSha256": "2d7be7e3669dbb3d94319156aa42d27f23f04826b8c9ec450bb924d0e7e4a3e8",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            680.5126514,
+            132.02618399904767,
+            725.5126478
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            72.00001709999992,
+            229.39556535236028,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            72.0142848,
+            680.5126514,
+            132.02618399904767,
+            725.5126478
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            72.00001709999992,
+            229.39556535236028,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im6",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im6.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2134,
+      "decodedRgbSha256": "e76f0175cb0b9cfbff304ed818b6014b8525cab35c7ce74723e038de329c5713",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            127.31935309999994,
+            229.39556535236028,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            127.31935309999994,
+            229.39556535236028,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im7",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im7.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1895,
+      "decodedRgbSha256": "f39c4372f99fd1369432c95143c247cb9da06d798242d6177c7ca9ddde2d2b5e",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            182.63862799999993,
+            229.39556535236028,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            237.95802489999994,
+            229.39556535236028,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            182.63862799999993,
+            229.39556535236028,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            237.95802489999994,
+            229.39556535236028,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im8",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im8.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1383,
+      "decodedRgbSha256": "ee024b7f3068bc11d6e4aaf6ea36b222e19df94007476fc6efb218db33ee733a",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            293.2772997999999,
+            229.39556535236028,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            293.2772997999999,
+            229.39556535236028,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im9",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im9.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2030,
+      "decodedRgbSha256": "bb86b428f032b27ad675c744a649f21f04b6a2c74b1ed1d25f604826227f1d43",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            348.59669679999996,
+            229.39556535236028,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            348.59669679999996,
+            229.39556535236028,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im10",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im10.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2328,
+      "decodedRgbSha256": "3affbbeef84eaf26bf3a434ee5059ac521986fa6880008b176ba99e76f8a640c",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            403.9159717,
+            229.39556535236028,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            459.2353382,
+            229.39556535236028,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            403.9159717,
+            229.39556535236028,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            459.2353382,
+            229.39556535236028,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im11",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im11.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2316,
+      "decodedRgbSha256": "0d77b5167597f63eb7c4e6be47ad1465fa9d0f24dd92172ba56b64415bf45cdc",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            514.5546436,
+            229.39556535236028,
+            559.55464
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            514.5546436,
+            229.39556535236028,
+            559.55464
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im12",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im12.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2308,
+      "decodedRgbSha256": "ee4044fcd50063e2ff8a90516d296e1ac48d25d2d5994725ec596b4c5ac13522",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            569.8739794999999,
+            229.39556535236028,
+            614.8739759
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            569.8739794999999,
+            229.39556535236028,
+            614.8739759
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im13",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im13.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1371,
+      "decodedRgbSha256": "9ae06a06406c8d9152a8132a83e4d8b9a6f0b1e16e0d3aba57ee4ca4bd53f2bb",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            625.1933764999999,
+            229.39556535236028,
+            670.1933729
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            680.5126514,
+            229.39556535236028,
+            725.5126478
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            625.1933764999999,
+            229.39556535236028,
+            670.1933729
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            169.38366615331262,
+            680.5126514,
+            229.39556535236028,
+            725.5126478
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im14",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im14.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1803,
+      "decodedRgbSha256": "ea27487089f5346bc7980b52279511772567862c2b68e459bacc755454a55150",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            72.00001709999992,
+            326.7649468056928,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            72.00001709999992,
+            326.7649468056928,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im15",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im15.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2077,
+      "decodedRgbSha256": "db3f8ea1adf37695a285cfb0e34f8831e84c0a19ebe8d71317fec3611f8ec55c",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            127.31935309999994,
+            326.7649468056928,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            127.31935309999994,
+            326.7649468056928,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im16",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im16.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2231,
+      "decodedRgbSha256": "3fabc767e313f0327815f19845fc0e074772ef387fa21ae124592baae7a00da7",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            182.63862799999993,
+            326.7649468056928,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            182.63862799999993,
+            326.7649468056928,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im17",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im17.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2076,
+      "decodedRgbSha256": "032c97344a96cd4c3bbd9c309ca99ff0b2193486e0ab412fc60bb3fdab1da258",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            237.95802489999994,
+            326.7649468056928,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            293.2772997999999,
+            326.7649468056928,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            237.95802489999994,
+            326.7649468056928,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            293.2772997999999,
+            326.7649468056928,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im18",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im18.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2267,
+      "decodedRgbSha256": "d3290dbfe101c62a82a622cbbea4a29e05280cac49f80a39a194a1318991d1a4",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            348.59669679999996,
+            326.7649468056928,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            403.9159717,
+            326.7649468056928,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            348.59669679999996,
+            326.7649468056928,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            403.9159717,
+            326.7649468056928,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im19",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im19.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1925,
+      "decodedRgbSha256": "09eea4a7adc31a1d00110768f8b9b545d239122bb63f65c23b32b101559f9164",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            459.2353382,
+            326.7649468056928,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            514.5546436,
+            326.7649468056928,
+            559.55464
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            459.2353382,
+            326.7649468056928,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            514.5546436,
+            326.7649468056928,
+            559.55464
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im20",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im20.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2093,
+      "decodedRgbSha256": "cf6e32a2bd85055a44835290a035f0d09e6b4e68f0535e80b4590f0bb18c74bb",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            569.8739794999999,
+            326.7649468056928,
+            614.8739759
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            569.8739794999999,
+            326.7649468056928,
+            614.8739759
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im21",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im21.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2237,
+      "decodedRgbSha256": "5f45b4b9340c10338a20e9ed97eccf10fde759cf8056e57464d50d38c2af47ff",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            625.1933764999999,
+            326.7649468056928,
+            670.1933729
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            625.1933764999999,
+            326.7649468056928,
+            670.1933729
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im22",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im22.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1822,
+      "decodedRgbSha256": "b9bee2c539d2999f718d039da8e22840d557d78b84ebbfb08e7f8cb49e225748",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            680.5126514,
+            326.7649468056928,
+            725.5126478
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            72.00001709999992,
+            424.13417552872954,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            266.7530476066451,
+            680.5126514,
+            326.7649468056928,
+            725.5126478
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            72.00001709999992,
+            424.13417552872954,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im23",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im23.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1571,
+      "decodedRgbSha256": "45d1dd03a0e27e41f071d738d363af95f927544a856f5b5206200a4e37b5a4bc",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            127.31935309999994,
+            424.13417552872954,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            182.63862799999993,
+            424.13417552872954,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            127.31935309999994,
+            424.13417552872954,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            182.63862799999993,
+            424.13417552872954,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im24",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im24.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2120,
+      "decodedRgbSha256": "be8ae61ea9d9c965763d97bf28ffea59ce31c5616e5d2dc9f92cbb9b959fdf0d",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            237.95802489999994,
+            424.13417552872954,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            293.2772997999999,
+            424.13417552872954,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            237.95802489999994,
+            424.13417552872954,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            293.2772997999999,
+            424.13417552872954,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im25",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im25.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1946,
+      "decodedRgbSha256": "4050013cea33335ee42c70c448de89b9d52836e34647326eeb861002a6425916",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            348.59669679999996,
+            424.13417552872954,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            403.9159717,
+            424.13417552872954,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            348.59669679999996,
+            424.13417552872954,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            403.9159717,
+            424.13417552872954,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im26",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im26.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2233,
+      "decodedRgbSha256": "d375a85b56f2194b3edb56e0dd4244b864d8d2e408b9328bf121d579446408fe",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            459.2353382,
+            424.13417552872954,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            514.5546436,
+            424.13417552872954,
+            559.55464
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            459.2353382,
+            424.13417552872954,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            514.5546436,
+            424.13417552872954,
+            559.55464
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im27",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im27.png",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 3936,
+      "decodedRgbSha256": "4efc12f5fe989f5990abcaccab0faeb983e400bf987173554b8085a9b2055d5e",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            569.8739794999999,
+            424.13417552872954,
+            614.8739759
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            569.8739794999999,
+            424.13417552872954,
+            614.8739759
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im28",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im28.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2461,
+      "decodedRgbSha256": "5085d20c9c316d57624b82494154a4e0fc443615309999cae10fb5a99612d6b3",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            625.1933764999999,
+            424.13417552872954,
+            670.1933729
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            625.1933764999999,
+            424.13417552872954,
+            670.1933729
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im29",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im29.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1761,
+      "decodedRgbSha256": "9788ccc073089f812576342eadf72b6b898a529a34c23836cac56545a2200550",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            680.5126514,
+            424.13417552872954,
+            725.5126478
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            72.00001709999992,
+            521.503556982062,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            364.1222763296819,
+            680.5126514,
+            424.13417552872954,
+            725.5126478
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            72.00001709999992,
+            521.503556982062,
+            117.00001349999991
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im30",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im30.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1730,
+      "decodedRgbSha256": "4821df9793e37eb8c35f67e2cd2d4400f2934927542f64fa5dbdcb908e533032",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            127.31935309999994,
+            521.503556982062,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            182.63862799999993,
+            521.503556982062,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            127.31935309999994,
+            521.503556982062,
+            172.31934949999993
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            182.63862799999993,
+            521.503556982062,
+            227.6386243999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im31",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im31.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1869,
+      "decodedRgbSha256": "28b9d72abfddb559672ab2184c32b37debacd48b8e124fd3bc2f275a8e66f65a",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            237.95802489999994,
+            521.503556982062,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            237.95802489999994,
+            521.503556982062,
+            282.9580212999999
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im32",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im32.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 2013,
+      "decodedRgbSha256": "400bd03a49d889befbd5dbc08dcf70722fd3db433621fe3c079ea727289a2655",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            293.2772997999999,
+            521.503556982062,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            293.2772997999999,
+            521.503556982062,
+            338.27729619999997
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im33",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im33.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1803,
+      "decodedRgbSha256": "54a0c18d3f46f834fa11094cfcf200df8fda1b39dfb12c36f06f6a494ec68c8d",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            348.59669679999996,
+            521.503556982062,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            348.59669679999996,
+            521.503556982062,
+            393.59669319999995
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    },
+    {
+      "pdfImageName": "Im34",
+      "page": 1,
+      "path": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im34.jpg",
+      "pixels": [
+        80,
+        60
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1702,
+      "decodedRgbSha256": "9e9f5551663200f6d9897294bff544a22f74d767cf7aa22ba9b506f1eb2a13b3",
+      "placements": [
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            403.9159717,
+            521.503556982062,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            459.2353382,
+            521.503556982062,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            403.9159717,
+            521.503556982062,
+            448.9159681
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        },
+        {
+          "page": 1,
+          "boxPointsTopOrigin": [
+            461.4916577830144,
+            459.2353382,
+            521.503556982062,
+            504.2353346
+          ],
+          "intrinsicPixels": [
+            80,
+            60
+          ],
+          "effectiveDpi": [
+            96.0,
+            96.0
+          ]
+        }
+      ]
+    }
+  ],
+  "pieces": [
+    {
+      "id": "TG001",
+      "name": "White round eye tile",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG001.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im0"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im0.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG002",
+      "name": "Pink 1x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG002.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im5"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im5.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG003",
+      "name": "Clear 2x2 slope",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG003.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im14"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im14.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG004",
+      "name": "Lime 1x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG004.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im22"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im22.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG005",
+      "name": "Dark grey 1x3 inverted slope",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG005.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im29"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im29.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG006",
+      "name": "White round eye tile",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG006.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im0"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im0.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG007",
+      "name": "Yellow 2x3 curved brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG007.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im6"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im6.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG008",
+      "name": "Green 2x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG008.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im15"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im15.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG009",
+      "name": "Grey 1x4 arch brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG009.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im23"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im23.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG010",
+      "name": "Dark grey 1x3 slope",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG010.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im30"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im30.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG011",
+      "name": "White round eye tile",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG011.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im0"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im0.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG012",
+      "name": "Yellow 2x6 plate",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG012.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im7"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im7.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG013",
+      "name": "Green 2x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG013.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im16"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im16.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG014",
+      "name": "Grey 1x4 arch brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG014.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im23"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im23.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG015",
+      "name": "Dark grey 1x3 slope",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG015.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im30"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im30.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG016",
+      "name": "Yellow minifigure head",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG016.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im1"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im1.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG017",
+      "name": "Yellow 2x6 plate",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG017.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im7"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im7.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG018",
+      "name": "Green 1x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG018.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im17"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im17.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG019",
+      "name": "Green wavy flag",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG019.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im24"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im24.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG020",
+      "name": "Dark grey ladder",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG020.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im31"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im31.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG021",
+      "name": "White 1x1 brick with side stud",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG021.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im2"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im2.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG022",
+      "name": "White minifigure legs",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG022.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im8"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im8.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG023",
+      "name": "Green 1x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG023.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im17"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im17.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG024",
+      "name": "Green wavy flag",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG024.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im24"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im24.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG025",
+      "name": "Black 4x6 plate",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG025.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im32"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im32.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG026",
+      "name": "White 1x1 brick with side stud",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG026.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im2"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im2.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG027",
+      "name": "Transparent yellow 2x2 round brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG027.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im9"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im9.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG028",
+      "name": "Red 1x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG028.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im18"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im18.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG029",
+      "name": "Green 1x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG029.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im25"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im25.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG030",
+      "name": "Dark grey 1x2 brick with horizontal pin",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG030.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im33"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im33.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG031",
+      "name": "White 1x1 brick with side stud",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG031.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im2"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im2.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG032",
+      "name": "Transparent red 1x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG032.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im10"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im10.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG033",
+      "name": "Red 1x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG033.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im18"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im18.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG034",
+      "name": "Green 1x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG034.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im25"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im25.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG035",
+      "name": "Dark grey 1x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG035.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im34"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im34.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG036",
+      "name": "Black rod",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG036.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im3"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im3.png"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG037",
+      "name": "Transparent red 1x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG037.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im10"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im10.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG038",
+      "name": "Orange 1x2 slope",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG038.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im19"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im19.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG039",
+      "name": "Blue 1x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG039.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im26"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im26.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG040",
+      "name": "Dark grey 1x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG040.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im34"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im34.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG041",
+      "name": "Black rod",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG041.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im3"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im3.png"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG042",
+      "name": "Green flower",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG042.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im11"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im11.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG043",
+      "name": "Orange 1x2 slope",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG043.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im19"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im19.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG044",
+      "name": "Blue 1x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG044.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im26"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im26.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG045",
+      "name": "Pink-purple flower",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG045.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im4"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im4.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG046",
+      "name": "Blue minifigure torso",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG046.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im12"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im12.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG047",
+      "name": "Orange 2x4 plate",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG047.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im20"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im20.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG048",
+      "name": "Dark grey 2x2 plate with vertical pin",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG048.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im27"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im27.png"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG049",
+      "name": "Pink-purple flower",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG049.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im4"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im4.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG050",
+      "name": "Pale yellow 1x10 plate",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG050.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im13"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im13.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG051",
+      "name": "Orange 2x3 plate",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG051.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im21"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im21.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG052",
+      "name": "Black four-arm rotor",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG052.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im28"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im28.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG053",
+      "name": "Pink 1x4 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG053.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im5"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im5.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG054",
+      "name": "Pale yellow 1x10 plate",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG054.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im13"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im13.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG055",
+      "name": "Lime 1x2 brick",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG055.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im22"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im22.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    },
+    {
+      "id": "TG056",
+      "name": "Dark grey 1x3 inverted slope",
+      "existingAsset": "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/assets/TG056.png",
+      "existingPixels": [
+        80,
+        60
+      ],
+      "exactDecodedPixelMatch": true,
+      "confidence": "exact",
+      "matchingPdfImages": [
+        "Im29"
+      ],
+      "matchingSourcePaths": [
+        "/Users/tian/Documents/Codex/2026-11-13/ni/work/lego-search/highres/source-images/Im29.jpg"
+      ],
+      "higherResolutionReplacementAvailable": false
+    }
+  ]
+}

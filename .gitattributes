@@ -1,0 +1,2 @@
+# The standalone artifact embeds upstream Three.js shader strings verbatim.
+index.html linguist-generated=true -whitespace
